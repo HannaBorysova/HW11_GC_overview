@@ -1,6 +1,6 @@
 package main.java.com.hw11;
 
-import main.java.com.hw11.HeapOfMemoryError.HeapOfMemoryError;
+import main.java.com.hw11.heapOfMemoryError.HeapOfMemoryError;
 
 public class Main {
 

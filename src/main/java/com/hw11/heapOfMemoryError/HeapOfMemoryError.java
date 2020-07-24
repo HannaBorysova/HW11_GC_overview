@@ -1,4 +1,4 @@
-package main.java.com.hw11.HeapOfMemoryError;
+package main.java.com.hw11.heapOfMemoryError;
 
 public class HeapOfMemoryError {
     public static final int MAX_ARRAY_RANGE = 1300000000;
